@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a test branch is also quick.
 Branch test.
 Test switch command.
+Test switch command another dev.
