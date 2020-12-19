@@ -9,3 +9,4 @@ Test switch command.
 Test switch command another dev.
 Creating a new branch is quick and simple.
 1 line.
+test dev
